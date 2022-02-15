@@ -1,5 +1,5 @@
 # Cryptocurrency_App
-Flutter Task
+Samsung Galaxy A7 View--------------------------------------------------------Flutter Task
 
 
 ![11](https://user-images.githubusercontent.com/95712676/153988265-1111b334-4e0b-4324-8fe9-84915f818f66.jpeg)
@@ -10,4 +10,10 @@ Flutter Task
 
 ![33](https://user-images.githubusercontent.com/95712676/153989901-582357a4-2052-4fd8-aaf1-f43fae699c2f.jpeg)
 ![3](https://user-images.githubusercontent.com/95712676/153989929-8045577a-cce6-4839-aa39-013ca6bd8693.png)
+
+
+
+https://user-images.githubusercontent.com/95712676/153996509-bb80ea3a-7294-4d53-aa8b-f6509f55450d.mp4
+
+LG Nexus4 View
 
