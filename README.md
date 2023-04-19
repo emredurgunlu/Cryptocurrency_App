@@ -1,5 +1,8 @@
 # Cryptocurrency_App
-Samsung Galaxy A7 View--------------------------------------------------------Flutter Task
+Samsung Galaxy A7 View
+
+      Made Design--------------------------------------------------------Desired Design
+
 
 
 ![11](https://user-images.githubusercontent.com/95712676/153988265-1111b334-4e0b-4324-8fe9-84915f818f66.jpeg)
