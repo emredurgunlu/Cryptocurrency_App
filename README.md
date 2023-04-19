@@ -1,7 +1,7 @@
 # Cryptocurrency_App
-Samsung Galaxy A7 View
 
-      Made Design--------------------------------------------------------Desired Design
+<pre>Made Design (Samsung Galaxy A7 View)                                  Desired Design</pre>
+
 
 
 
